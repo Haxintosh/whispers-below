@@ -146,6 +146,6 @@ export let text = {
 };
 
 // language
-if (window.location.pathname === "/info-final-game/index-en.html") {
+if (window.location.pathname === "/whispers-below/index-en.html") {
   text = textEN;
 }

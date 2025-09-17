@@ -91,9 +91,9 @@ document.getElementById("languageToggle").addEventListener("click", () => {
   if (
     document.getElementById("languageToggle").textContent.includes("French")
   ) {
-    window.open("/info-final-game/", "_self");
+    window.open("/whispers-below/", "_self");
   } else {
-    window.open("/info-final-game/index-en.html", "_self");
+    window.open("/whispers-below/index-en.html", "_self");
   }
 });
 
